@@ -2,89 +2,54 @@
 "wallpapers": 
 	[
 		{
-			"author": "HTC",
-			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/HTC/wallpapers_00.jpg",
-			"name": "wallpaper_00"
+			"author": "Ryan Gocal",
+			"url": "https://raw.githubusercontent.com/rgocal/Catalyst_Wallpapers/master/drawable-nodpi/wallpaper_10.jpg",
+			"name": "Bionx Hand"
+		},
+		{
+			"author": "Ryan Gocal",
+			"url": "https://raw.githubusercontent.com/rgocal/Catalyst_Wallpapers/master/drawable-nodpi/wallpaper_11.jpg",
+			"name": "Lake Erie"
+		},
+		{
+			"author": "Lance Palmer",
+			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Community/paper_1.jpg",
+			"name": "Presence"
+		},
+		{
+			"author": "Ryan Gocal",
+			"url": "https://raw.githubusercontent.com/rgocal/Catalyst_Wallpapers/master/drawable-nodpi/wallpaper_2.jpg",
+			"name": "Bionx 1st Gen"
+		},
+		{
+			"author": "Ryan Gocal",
+			"url": "https://raw.githubusercontent.com/rgocal/Catalyst_Wallpapers/master/drawable-nodpi/wallpaper_4.jpg",
+			"name": "Bionx Wall"
+		},
+		{
+			"author": "Ryan Gocal",
+			"url": "https://raw.githubusercontent.com/rgocal/Catalyst_Wallpapers/master/drawable-nodpi/wallpaper_6.jpg",
+			"name": "Bionx Nx"
+		},
+		{
+			"author": "Ryan Gocal",
+			"url": "https://raw.githubusercontent.com/rgocal/Catalyst_Wallpapers/master/drawable-nodpi/wallpaper_9.jpg",
+			"name": "Droid Ultima"
+		},
+		{
+			"author": "Motorola",
+			"url": "https://raw.githubusercontent.com/rgocal/Catalyst_Wallpapers/master/drawable-nodpi/wallpaper_8.jpg",
+			"name": "Droid 4"
 		},
 		{
 			"author": "HTC",
-			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/HTC/wallpapers_01.jpg",
-			"name": "wallpaper_01"
+			"url": "https://raw.githubusercontent.com/rgocal/Catalyst_Wallpapers/master/drawable-nodpi/wallpaper_7.jpg",
+			"name": "Droid DNA"
 		},
 		{
-			"author": "HTC",
-			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/HTC/wallpapers_02.jpg",
-			"name": "wallpaper_02"
-		},
-		{
-			"author": "HTC",
-			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/HTC/wallpapers_03.jpg",
-			"name": "wallpaper_03"
-		},
-		{
-			"author": "HTC",
-			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/HTC/wallpapers_04.jpg",
-			"name": "wallpaper_04"
-		},
-		{
-			"author": "HTC",
-			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/HTC/wallpapers_05.jpg",
-			"name": "wallpaper_05"
-		},
-		{
-			"author": "HTC",
-			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/HTC/wallpapers_06.jpg",
-			"name": "wallpaper_06"
-		},
-		{
-			"author": "HTC",
-			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/HTC/wallpapers_07.jpg",
-			"name": "wallpaper_07"
-		},
-		{
-			"author": "HTC",
-			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/HTC/wallpapers_08.jpg",
-			"name": "wallpaper_08"
-		},
-		{
-			"author": "HTC",
-			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/HTC/wallpapers_09.jpg",
-			"name": "wallpaper_09"
-		},
-				{
-			"author": "Samsung",
-			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Samsung/wallpaper_1.png",
-			"name": "wallpaper_01"
-		},
-		{
-			"author": "Samsung",
-			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Samsung/wallpaper_2.png",
-			"name": "wallpaper_02"
-		},
-		{
-			"author": "Samsung",
-			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Samsung/wallpaper_3.jpg",
-			"name": "wallpaper_03"
-		},
-		{
-			"author": "Sony",
-			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Xperia/Xperia-X_Xperia_black_painting.png",
-			"name": "Black Painting"
-		},
-		{
-			"author": "Sony",
-			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Xperia/Xperia-X_Xperia_blue_painting.png",
-			"name": "Blue Painting"
-		},
-		{
-			"author": "Sony",
-			"url": "https://raw.githubusercontent.com/rgocal/Catalyst_Wallpapers/master/drawable-nodpi/wallpaper_18.jpg",
-			"name": "Xperia Z"
-		},
-		{
-			"author": "Sony",
-			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Xperia/Xperia-X_Xperia_white_painting.png",
-			"name": "White Painting"
+			"author": "Ryan Gocal",
+			"url": "https://raw.githubusercontent.com/rgocal/Catalyst_Wallpapers/master/drawable-nodpi/R_1.png",
+			"name": "Bionx Requiem"
 		}
 	]
 }
