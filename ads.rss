@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Sapphyx Launcher</title>
+  <link>https://github.com/rgocal/Sapphyx_Issue_Tracker/new/master.ads.rss</link>
+  <description>A RSS dedicated to ad news.</description>
+  
+  <item>
+    <title>Go Pro!</title>
+    <description><![CDATA[
+Purchase a license to Unlock GSD Premium Apps and fully unlock Sapphyx Launcher!
+]]></description>
+    <link>https://play.google.com/store/apps/details?id=sapphireprem.nxindustries.com.sapphirepremium</link>
+    <content:encoded>
+<![CDATA[
+<p><img class="alignnone size-large wp-image-826374" src="https://lh3.googleusercontent.com/Mz9U8opmWuGUoHn-ETTaGQSZ2oKmtqEYdq-cI5cj8G5Z2E5B7rxSi43qsr8UGhyDOJBsGowqnzolLzfNPXlvNT59=h200">
+]]>
+</content:encoded>
+  </item>
+  
+  
+</channel>
+
+</rss>
