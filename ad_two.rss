@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Sapphyx Launcher</title>
+  <link>https://github.com/rgocal/Sapphyx_Issue_Tracker/new/master.ads.rss</link>
+  <description>A RSS dedicated to ad news.</description>
+  
+  <item>
+    <title>What's New In Version 1.5?</title>
+    <description><![CDATA[
+Android Oreo Support, New Folder Styles, New Features and General Improvements. Head on over to Google Play to grab the update!
+]]></description>
+    <link>https://play.google.com/store/apps/details?id=com.gsd.launcher.sapphyx</link>
+    <content:encoded>
+<![CDATA[
+<p><img class="alignnone size-large wp-image-826374" src="https://raw.githubusercontent.com/rgocal/Sapphyx_Issue_Tracker/master/ad_two_pic.png">
+]]>
+</content:encoded>
+  </item>
+</channel>
+</rss>
