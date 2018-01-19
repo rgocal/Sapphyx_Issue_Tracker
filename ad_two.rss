@@ -7,11 +7,11 @@
   <description>A RSS dedicated to ad news.</description>
   
   <item>
-    <title>What's New In Version 1.5?</title>
+    <title>Join the Google Community!</title>
     <description><![CDATA[
-Android Oreo Support, New Folder Styles, New Features and General Improvements. Head on over to Google Play to grab the update!
+As a community android dev, I want to here from you and others! Join the Google Plus Group for exclusive news, updates and giveaways!
 ]]></description>
-    <link>https://play.google.com/store/apps/details?id=com.gsd.launcher.sapphyx</link>
+    <link>https://plus.google.com/u/0/communities/112426499892330526837</link>
     <content:encoded>
 <![CDATA[
 <p><img class="alignnone size-large wp-image-826374" src="https://raw.githubusercontent.com/rgocal/Sapphyx_Issue_Tracker/master/ad_two_pic.png">
