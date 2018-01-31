@@ -7,11 +7,11 @@
   <description>A RSS dedicated to ad news.</description>
   
   <item>
-    <title>Welcome to the 1.54 Beta!</title>
+    <title>Beta 4 News</title>
     <description><![CDATA[
-Watch the beta initiative video and keep an eye out for those bugs!
+New ViDoc talking about what to expect in Beta 4 of Sapphyx Launcher. Click to watch! 
 ]]></description>
-    <link>https://www.youtube.com/watch?v=P815MPiIWcs</link>
+    <link>https://youtu.be/Fo5lYhmmRVw</link>
     <content:encoded>
 <![CDATA[
 <p><img class="alignnone size-large wp-image-826374" src="https://raw.githubusercontent.com/rgocal/Sapphyx_Issue_Tracker/master/ad_three_pic.png">
