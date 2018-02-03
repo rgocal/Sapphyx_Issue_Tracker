@@ -7,11 +7,10 @@
   <description>A RSS dedicated to ad news.</description>
   
   <item>
-    <title>Go Pro!</title>
+    <title>Become A Beta Tester</title>
     <description><![CDATA[
-Purchase a license to Unlock GSD Premium Apps and fully unlock Sapphyx Launcher!
-]]></description>
-    <link>https://play.google.com/store/apps/details?id=sapphireprem.nxindustries.com.sapphirepremium</link>
+Enlist in the beta program and receive newer and experimental updates for Sapphyx Launcher and help forge the future for users. 
+]]></description> <link>https://play.google.com/apps/testing/com.gsd.launcher.sapphyx</link>
     <content:encoded>
 <![CDATA[
 <p><img class="alignnone size-large wp-image-826374" src="https://raw.githubusercontent.com/rgocal/Sapphyx_Issue_Tracker/master/ad_one_pic.png">
