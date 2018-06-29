@@ -6,10 +6,10 @@
   <link>https://github.com/rgocal/Sapphyx_Issue_Tracker/new/master.ads.rss</link>
   <description>A RSS dedicated to ad news.</description>
 
-<item>
+ <item>
     <title>Welcome Beta User</title>
     <description><![CDATA[
-Hey! Swipe through the Message Board for OTA notifications and News for Sapphyx! Click here for onboarding details!
+This is the message board. These messages come OTA and regard important articles pertaining to Sapphyx Launcher. Click here for an on boarding message over at GSD!
 ]]></description>
 <link>https://gocalsd.weebly.com/newsletter/sapphyx-phase-2-development</link>
     <content:encoded>
@@ -18,7 +18,7 @@ Hey! Swipe through the Message Board for OTA notifications and News for Sapphyx!
 ]]>
 </content:encoded>
   </item>
-  
+
   <item>
     <title>2WO</title>
     <description><![CDATA[
