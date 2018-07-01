@@ -46,6 +46,20 @@ Welcome to the Beta, This is Phase 2! Click here for my personal tour.
 ]]>
 </content:encoded>
   </item>
+
+ <item>
+    <title>XDA Forum</title>
+    <description><![CDATA[
+Head on over to the XDA Forums and dig in with some good ol discussions. It's a dead thread! Bring it to life!
+]]></description>
+<link>https://forum.xda-developers.com/android/apps-games/app-sapphyx-launcher-2-beta-t3810530</link>
+    <content:encoded>
+<![CDATA[
+<p><img class="alignnone size-large wp-image-826374" src="https://images.unsplash.com/photo-1530236209717-4534816b9f6d?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=02664f2db542a748cdc95aface23e9c5&auto=format&fit=crop&w=1350&q=80">
+]]>
+</content:encoded>
+  </item>
+
   
   <item>
     <title>Unlock More Customization</title>
