@@ -19,19 +19,6 @@ This is the message board. These messages come OTA and regard important articles
 </content:encoded>
   </item>
 
- <item>
-    <title>License Sale Ends Friday!</title>
-    <description><![CDATA[
-The promotional beta sale ends Friday! These sales will return later but if caught a glimpse of the original prices, now is the best time to grab a license! Hurry!
-]]></description>
-<link></link>
-    <content:encoded>
-<![CDATA[
-<p><img class="alignnone size-large wp-image-826374" src="https://images.unsplash.com/photo-1530236209717-4534816b9f6d?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=02664f2db542a748cdc95aface23e9c5&auto=format&fit=crop&w=1350&q=80">
-]]>
-</content:encoded>
-  </item>
-
   <item>
     <title>Google Play Ratings</title>
     <description><![CDATA[
@@ -77,7 +64,7 @@ Head on over to the XDA Forums and dig in with some good ol discussions. It's a 
   <item>
     <title>Unlock More Customization</title>
     <description><![CDATA[
-Unlock the premium features everyone's talking about buy purchasing a Premium License! Premium on sale now! 
+Unlock the premium features everyone's talking about buy purchasing a Premium License!
 ]]></description>
 <link>https://play.google.com/store/apps/details?id=sapphireprem.nxindustries.com.sapphirepremium</link>
     <content:encoded>
@@ -90,7 +77,7 @@ Unlock the premium features everyone's talking about buy purchasing a Premium Li
   <item>
     <title>Unlock Everything Forever</title>
     <description><![CDATA[
-Unlock every single feature everyone's talking about forever buy purchasing a Onyx License! Onyx on sale now! 
+Unlock every single feature everyone's talking about forever buy purchasing a Onyx License!
 ]]></description>
 <link>https://play.google.com/store/apps/details?id=onyx.sapphire.nxindustires.com.suionyx</link>
     <content:encoded>
@@ -103,7 +90,7 @@ Unlock every single feature everyone's talking about forever buy purchasing a On
   <item>
     <title>Sapphyx Services V2</title>
     <description><![CDATA[
-Security patches, exclusive unlocked Free Features, framework Support. V2 Coming Soon...
+A launcher exclusive service pack that enhances the Sapphyx Launcher experience. V2 coming soon! V1 does nothing at this time. 
 ]]></description>
 <link>https://play.google.com/store/apps/details?id=com.gsd.sapphyx.services</link>
     <content:encoded>
