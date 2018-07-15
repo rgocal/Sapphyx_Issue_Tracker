@@ -61,54 +61,10 @@ Users have purchased more Onyx License than Premium License. Whether this is for
 </content:encoded>
   </item>
 
-<item>
-    <title>Sapphyx SP Prep</title>
-    <description><![CDATA[
-The service pack is being prepped to be updated soon for Sapphyx Launcher 2. It will bring a new donation option for users who have owned their license for a long time and other prep fixes. 
-]]></description>
-<link>
-</link>
-    <content:encoded>
-<![CDATA[
-<p><img class="alignnone size-large wp-image-826374" src="https://images.unsplash.com/photo-1530368678098-3a2e53420976?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=4c3e98b088f1d65956bcee13c3dd1e89&auto=format&fit=crop&w=939&q=80">
-]]>
-</content:encoded>
-  </item>
-
-
-<item>
-    <title>Account Settings Issue</title>
-    <description><![CDATA[
-A bug that is preventing users from entering their user profile settings is being tracked. I'm in the process of rewriting the activity option in the launcher settings to be more attractive and corrected. This may release as a hotfix this week. Stay tuned! 
-]]></description>
-<link>
-</link>
-    <content:encoded>
-<![CDATA[
-<p><img class="alignnone size-large wp-image-826374" src="https://images.unsplash.com/photo-1530368678098-3a2e53420976?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=4c3e98b088f1d65956bcee13c3dd1e89&auto=format&fit=crop&w=939&q=80">
-]]>
-</content:encoded>
-  </item>
-  
-
   <item>
-    <title>2.00.03</title>
+    <title>2.00.04</title>
     <description><![CDATA[
-Update released on 7/14/18. Folders Personalization, Icon and Text Size optimization, general maintenance and more! 
-]]></description>
-<link>
-</link>
-    <content:encoded>
-<![CDATA[
-<p><img class="alignnone size-large wp-image-826374" src="https://gocalsd.weebly.com/uploads/5/0/4/9/50496249/6453550386918829184_orig.jpg">
-]]>
-</content:encoded>
-  </item>
-
-  <item>
-    <title>Context Page Maintenance</title>
-    <description><![CDATA[
-The next beta update will focus on Context Pages, Swiftfeed fixes, Calendar Page redesign, and the development of Rayne. A new Context Page to compete against One Plus One Shelf. 
+Update released on 7/15/18. Folders Personalization, Icon and Text Size optimization, general maintenance and more! 
 ]]></description>
 <link>
 </link>
@@ -131,7 +87,6 @@ Head on over to the XDA Forums and dig in with some good ol discussions. Just br
 ]]>
 </content:encoded>
   </item>
-
   
   <item>
     <title>Like A Pro</title>
