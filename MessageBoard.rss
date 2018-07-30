@@ -19,6 +19,20 @@ This is the message board. These messages come OTA and regard important articles
 </content:encoded>
   </item>
 
+<item>
+    <title>Bug Watch! </title>
+    <description><![CDATA[
+Users seem to be having issues toggling some settings with the round checkbox after the 05 update. If you come across this issue, try resetting the launcher data and see if the problem persist. 
+]]></description>
+<link>
+</link>
+    <content:encoded>
+<![CDATA[
+<p><img class="alignnone size-large wp-image-826374" src="https://images.unsplash.com/photo-1530368678098-3a2e53420976?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=4c3e98b088f1d65956bcee13c3dd1e89&auto=format&fit=crop&w=939&q=80">
+]]>
+</content:encoded>
+  </item>
+
   <item>
     <title>Services Update Coming Soon!</title>
     <description><![CDATA[
