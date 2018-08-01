@@ -34,21 +34,6 @@ Users seem to be having issues toggling some settings with the round checkbox af
   </item>
 
   <item>
-    <title>Services Update Coming Soon!</title>
-    <description><![CDATA[
-Preparations are being made to push updates to Premium/Onyx License Apps, Sapphyx Service Pack and GSD Mobile of which all will have some sort of companionship with Sapphyx Launcher 2.0. Stay Tuned! 
-]]></description>
-<link>
-</link>
-    <content:encoded>
-<![CDATA[
-<p><img class="alignnone size-large wp-image-826374" src="https://images.unsplash.com/photo-1530368678098-3a2e53420976?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=4c3e98b088f1d65956bcee13c3dd1e89&auto=format&fit=crop&w=939&q=80">
-]]>
-</content:encoded>
-  </item>
-
-
-  <item>
     <title>Google Play Ratings</title>
     <description><![CDATA[
 Take Google Play Ratings seriously. I am watching all of your reviews and monitoring all of them. Any of them that don't meet google guidelines will be reported and/or removed. 
@@ -75,20 +60,6 @@ Please reframe from purchasing a license if you plan on just returning it. It's 
 ]]>
 </content:encoded>
   </item>
-  
-  <item>
-    <title>Onyx License Take The Lead</title>
-    <description><![CDATA[
-Users have purchased more Onyx License than Premium License. Whether this is for the back end user support, generousity or the hype for new Context Pages, A big thankyou and kudos goes to the crowd!
-]]></description>
-<link>
-</link>
-    <content:encoded>
-<![CDATA[
-<p><img class="alignnone size-large wp-image-826374" src="https://images.unsplash.com/photo-1513351180927-140ef48ea1d8?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6cf910eb94ec0b13cd2acdac9b0821f1&auto=format&fit=crop&w=1350&q=80">
-]]>
-</content:encoded>
-  </item>
 
   <item>
     <title>Community Challenge</title>
@@ -105,9 +76,9 @@ Reach 20k downloads before the end of August with an average of a 4.0 rating sca
 
 
   <item>
-    <title>2.00.04</title>
+    <title>Services Update!</title>
     <description><![CDATA[
-Update released on 7/15/18. Folders Personalization, Icon and Text Size optimization, general maintenance and more! 
+Updates are now available for Premium and Onyx License keys as well as Sapphyx Service Pack. These are now fully supported for Sapphyx 2!
 ]]></description>
 <link>https://play.google.com/store/apps/details?id=com.gsd.launcher.sapphyx</link>
     <content:encoded>
@@ -157,9 +128,9 @@ Unlock every single feature everyone's talking about forever by purchasing an On
   </item>
   
   <item>
-    <title>Sapphyx Services V2</title>
+    <title>Sapphyx SP2</title>
     <description><![CDATA[
-A launcher exclusive service pack that enhances the Sapphyx Launcher experience. V2 coming soon! V1 does nothing at this time. 
+A launcher exclusive service pack that enhances the Sapphyx Launcher experience. V2 now available! Supportive Backing now live!
 ]]></description>
 <link>https://play.google.com/store/apps/details?id=com.gsd.sapphyx.services</link>
     <content:encoded>
@@ -220,8 +191,6 @@ Get support from the Telegram group or discuss the current project operations!
 ]]>
 </content:encoded>
   </item>
-  
-  
   
 </channel>
 </rss>
