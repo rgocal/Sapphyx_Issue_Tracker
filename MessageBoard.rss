@@ -9,9 +9,22 @@
  <item>
     <title>Welcome</title>
     <description><![CDATA[
-Welcome Beta User! This is the message board. These messages come OTA and regard important articles pertaining to Sapphyx Launcher. Click here for a most recent thank you message.
+Welcome Beta User! This is the message board. Messages come OTA and regard important news items for Sapphyx. Click here for a most recent thank you message.
 ]]></description>
 <link>https://youtu.be/fCSrmiaVml8</link>
+    <content:encoded>
+<![CDATA[
+<p><img class="alignnone size-large wp-image-826374" src="https://images.unsplash.com/photo-1530236209717-4534816b9f6d?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=02664f2db542a748cdc95aface23e9c5&auto=format&fit=crop&w=1350&q=80">
+]]>
+</content:encoded>
+  </item>
+
+ <item>
+    <title>Tip</title>
+    <description><![CDATA[
+Longclick a news item to copy the description text to your clipboard! 
+]]></description>
+<link></link>
     <content:encoded>
 <![CDATA[
 <p><img class="alignnone size-large wp-image-826374" src="https://images.unsplash.com/photo-1530236209717-4534816b9f6d?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=02664f2db542a748cdc95aface23e9c5&auto=format&fit=crop&w=1350&q=80">
@@ -35,7 +48,7 @@ Sign up for the Sapphyx beta on Google Play to join our journey of Android P pat
  <item>
     <title>XDA Forum</title>
     <description><![CDATA[
-Head on over to the XDA Forums and dig in with some good ol discussions. Just broke the 1k views mark! Now... We need some general discussion started. Help make that happen! 
+Head on over to the XDA Forums and dig in with some good ol discussions.
 ]]></description>
 <link>https://forum.xda-developers.com/android/apps-games/app-sapphyx-launcher-2-beta-t3810530</link>
     <content:encoded>
@@ -74,7 +87,7 @@ Unlock every single feature everyone's talking about forever by purchasing an On
   <item>
     <title>Sapphyx SP2</title>
     <description><![CDATA[
-An additional add-on for Sapphyx Launcher. 
+Service Pack add-on for Sapphyx Launcher. Contains patches and enhancements for launcher settings. 
 ]]></description>
 <link>https://play.google.com/store/apps/details?id=com.gsd.sapphyx.services</link>
     <content:encoded>
