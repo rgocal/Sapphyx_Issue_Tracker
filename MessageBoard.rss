@@ -149,6 +149,19 @@ Service Pack add-on for Sapphyx Launcher. Contains patches and enhancements for 
 ]]>
 </content:encoded>
   </item>
+
+  <item>
+    <title>Join us in MeWe</title>
+    <description><![CDATA[
+Losing Google Plus has impacted the group but rebuilding what we lost is only one challenge. Join us at MeWe for a similar group environment.
+]]></description>
+<link>https://mewe.com/join/sapphyxlauncher</link>
+    <content:encoded>
+<![CDATA[
+<p><img class="alignnone size-large wp-image-826374" src="https://images.unsplash.com/photo-1530210124550-912dc1381cb8?ixlib=rb-0.3.5&s=789758c5a164756d63455b3ac17544fd&auto=format&fit=crop&w=1050&q=80">
+]]>
+</content:encoded>
+  </item>
   
   <item>
     <title>Like on Facebook</title>
