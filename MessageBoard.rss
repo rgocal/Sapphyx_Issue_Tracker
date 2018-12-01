@@ -7,11 +7,11 @@
   <description>A RSS dedicated to ad news.</description>
 
  <item>
-    <title>Hey!</title>
+    <title>Welcome</title>
     <description><![CDATA[
-Welcome to Sapphyx! This is the message board. Messages come OTA and regard important news items for Sapphyx. Click for a recent development progress report. 
+Thankyou for choosing Sapphyx Launcher! This is the message board which loads OTA announcments! Click here for a recent blog report!
 ]]></description>
-<link>https://gocalsdb.wordpress.com/2018/10/15/enter-stable-channel/</link>
+<link>gocalsdb.wordpress.com/2018/12/01/sapphyx-lts-development-status//</link>
     <content:encoded>
 <![CDATA[
 <p><img class="alignnone size-large wp-image-826374" src="https://images.unsplash.com/photo-1522274152592-9e54a8274e65?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=86ea071dd8ce8674c43be18c8f871e2f&auto=format&fit=crop&w=634&q=80">
@@ -20,24 +20,11 @@ Welcome to Sapphyx! This is the message board. Messages come OTA and regard impo
   </item>
 
  <item>
-    <title>Tip</title>
+    <title>Copy & PAste</title>
     <description><![CDATA[
 Longclick a news item to copy the description text to your clipboard! 
 ]]></description>
 <link></link>
-    <content:encoded>
-<![CDATA[
-<p><img class="alignnone size-large wp-image-826374" src="https://images.unsplash.com/photo-1521687296887-5b06b3519a11?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=df38c12e6cbd222d0479a43c6f4c7ec0&auto=format&fit=crop&w=634&q=80">
-]]>
-</content:encoded>
-  </item>
-
- <item>
-    <title>Black Friday Sale!</title>
-    <description><![CDATA[
-Get a Premium license for free or an Onyx license for 1.35 USD! Click for more details! Now live!
-]]></description>
-<link>https://twitter.com/Rgocal/status/1064717583310573568</link>
     <content:encoded>
 <![CDATA[
 <p><img class="alignnone size-large wp-image-826374" src="https://images.unsplash.com/photo-1521687296887-5b06b3519a11?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=df38c12e6cbd222d0479a43c6f4c7ec0&auto=format&fit=crop&w=634&q=80">
@@ -51,20 +38,6 @@ Get a Premium license for free or an Onyx license for 1.35 USD! Click for more d
 Download SSP to unlock Supportive Backing Donation options. The more you donate, the faster updates release, the bigger they are. 
 ]]></description>
 <link></link>
-    <content:encoded>
-<![CDATA[
-<p><img class="alignnone size-large wp-image-826374" src="https://images.unsplash.com/photo-1521687296887-5b06b3519a11?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=df38c12e6cbd222d0479a43c6f4c7ec0&auto=format&fit=crop&w=634&q=80">
-]]>
-</content:encoded>
-  </item>
-
-
- <item>
-    <title>Icon Editing!</title>
-    <description><![CDATA[
-Users have harnessed the powers of icon editing and more options to their app shortcuts! Learn the basics here! 
-]]></description>
-<link>https://youtu.be/OSBvIf1F9sA</link>
     <content:encoded>
 <![CDATA[
 <p><img class="alignnone size-large wp-image-826374" src="https://images.unsplash.com/photo-1521687296887-5b06b3519a11?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=df38c12e6cbd222d0479a43c6f4c7ec0&auto=format&fit=crop&w=634&q=80">
@@ -125,9 +98,9 @@ Head on over to the XDA Forums and dig in with some good ol discussions.
   </item>
   
   <item>
-    <title>Go Premium FREE</title>
+    <title>Go Premium</title>
     <description><![CDATA[
-Black Friday promotional give away live! Unlocks all launcher customization and personalization in LTS update. 
+Unlock all launcher customization and personalization in LTS update. 
 ]]></description>
 <link>https://play.google.com/store/apps/details?id=sapphireprem.nxindustries.com.sapphirepremium</link>
     <content:encoded>
@@ -140,25 +113,12 @@ Black Friday promotional give away live! Unlocks all launcher customization and 
   <item>
     <title>Onyx License</title>
     <description><![CDATA[
-Slashed Priced now live! Be Onyx by purchasing an Onyx License. Unlocks all launcher customization and Access to exclusive Context Page personalization. 
+Be an Onyx licensed user by purchasing an Onyx License. Unlocks all launcher customization and Access to exclusive Context Page personalization. 
 ]]></description>
 <link>https://play.google.com/store/apps/details?id=onyx.sapphire.nxindustires.com.suionyx</link>
     <content:encoded>
 <![CDATA[
 <p><img class="alignnone size-large wp-image-826374" src="https://images.unsplash.com/photo-1532888337502-7f9b753ae023?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=85cacb93eaaa044d871c1b65370c2fb1&auto=format&fit=crop&w=663&q=80">
-]]>
-</content:encoded>
-  </item>
-  
-  <item>
-    <title>Sapphyx SP2</title>
-    <description><![CDATA[
-Download and install the SevicePack2 for Sapphyx. A modular add-on for Sapphyx Launcher. 
-]]></description>
-<link>https://play.google.com/store/apps/details?id=com.gsd.sapphyx.services</link>
-    <content:encoded>
-<![CDATA[
-<p><img class="alignnone size-large wp-image-826374" src="https://images.unsplash.com/photo-1539314171919-908b0cd96f03?ixlib=rb-0.3.5&s=b635906edb2aac3cf1258482f4f480a9&auto=format&fit=crop&w=634&q=80">
 ]]>
 </content:encoded>
   </item>
