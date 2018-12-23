@@ -7,9 +7,9 @@
   <description>A RSS dedicated to ad news.</description>
 
  <item>
-    <title>Welcome</title>
+    <title>READ MORE</title>
     <description><![CDATA[
-Thankyou for choosing Sapphyx Launcher! This is the message board which loads OTA announcments! Click here for a recent blog report!
+This is the message board of which loads OTA announcments! Click here for a recent blog report!
 ]]></description>
 <link>https://gocalsdb.wordpress.com/2018/12/01/sapphyx-lts-development-status</link>
     <content:encoded>
@@ -20,9 +20,9 @@ Thankyou for choosing Sapphyx Launcher! This is the message board which loads OT
   </item>
 
  <item>
-    <title>LTS Soaktest</title>
+    <title>INFO</title>
     <description><![CDATA[
-Beta builds of the LTS update have begun to roll out and will continue through the end of December. Help make Sapphyx Launcher better! Report back any problems! 
+LTS update soak test have begun to roll out and will continue through the end of December on Google Play. Help make Sapphyx Launcher better! Report back any problems! 
 ]]></description>
 <link></link>
     <content:encoded>
@@ -33,7 +33,7 @@ Beta builds of the LTS update have begun to roll out and will continue through t
   </item>
 
  <item>
-    <title>Copy and Paste</title>
+    <title>INFO</title>
     <description><![CDATA[
 Longclick a news item to copy the description text to your clipboard!
 ]]></description>
@@ -46,9 +46,9 @@ Longclick a news item to copy the description text to your clipboard!
   </item>
 
 <item>
-    <title>Get Drywall</title>
+    <title>DOWNLOAD NOW</title>
     <description><![CDATA[
-Download the wallpaper Companion app for Sapphyx Launcher!
+Download Sapphyx Launcher's wallpaper companion app, Drywall.
 ]]></description>
 <link>https://play.google.com/store/apps/details?id=sapphyx.gsd.com.drywall</link>
     <content:encoded>
@@ -59,9 +59,9 @@ Download the wallpaper Companion app for Sapphyx Launcher!
   </item>
   
 <item>
-    <title>Google Icons!</title>
+    <title>DOWNLOAD NOW</title>
     <description><![CDATA[
-From the developer of Rootless Pixel Launcher comes Google Icons! Get started with icon editing with this basic and fresh adaptive icon pack. 
+Get started with icon editing with this basic and fresh adaptive icon pack, Google Icons. 
 ]]></description>
 <link>https://play.google.com/store/apps/details?id=amirz.googleicons</link>
     <content:encoded>
@@ -72,7 +72,7 @@ From the developer of Rootless Pixel Launcher comes Google Icons! Get started wi
   </item>
 
  <item>
-    <title>XDA Forum</title>
+    <title>READ MORE</title>
     <description><![CDATA[
 Head on over to the XDA Forums and dig in with some good ol discussions.
 ]]></description>
@@ -85,9 +85,9 @@ Head on over to the XDA Forums and dig in with some good ol discussions.
   </item>
   
   <item>
-    <title>Go Premium</title>
+    <title>UPGRADE</title>
     <description><![CDATA[
-Unlock all launcher customization and personalization in LTS update.
+Unlock all launcher customization and personalization in the LTS update, Go Premium now!
 ]]></description>
 <link>https://play.google.com/store/apps/details?id=sapphireprem.nxindustries.com.sapphirepremium</link>
     <content:encoded>
@@ -98,9 +98,9 @@ Unlock all launcher customization and personalization in LTS update.
   </item>
 
   <item>
-    <title>Onyx License</title>
+    <title>UPGRADE</title>
     <description><![CDATA[
-Be an Onyx licensed user by purchasing the Onyx License. Unlocks all launcher customization and Access to exclusive Context Page personalization.
+Be an Onyx user by purchasing the Onyx License. Unlocks all launcher customization and Access to exclusive Context Page personalization.
 ]]></description>
 <link>https://play.google.com/store/apps/details?id=onyx.sapphire.nxindustires.com.suionyx</link>
     <content:encoded>
@@ -111,7 +111,7 @@ Be an Onyx licensed user by purchasing the Onyx License. Unlocks all launcher cu
   </item>
 
   <item>
-    <title>Join us in MeWe</title>
+    <title>READ MORE</title>
     <description><![CDATA[
 Losing Google Plus has impacted the group but rebuilding what we lost is only one challenge. Join us at MeWe for a similar group environment.
 ]]></description>
@@ -124,7 +124,7 @@ Losing Google Plus has impacted the group but rebuilding what we lost is only on
   </item>
   
   <item>
-    <title>Like on Facebook</title>
+    <title>READ MORE</title>
     <description><![CDATA[
 Like GocalSD on Facebook to receive news and updates on all of my projects, including Sapphyx Launcher! 
 ]]></description>
@@ -137,9 +137,9 @@ Like GocalSD on Facebook to receive news and updates on all of my projects, incl
   </item>
   
   <item>
-    <title>GocalSD Home</title>
+    <title>READ MORE</title>
     <description><![CDATA[
-The home of Sapphyx Launcher and other great projects.
+Check out the home of Sapphyx Launcher and other great products by GSD.
 ]]></description>
 <link>https://plus.google.com/u/0/communities/112426499892330526837</link>
     <content:encoded>
@@ -150,7 +150,7 @@ The home of Sapphyx Launcher and other great projects.
   </item>
   
   <item>
-    <title>Telegram Group</title>
+    <title>READ MORE</title>
     <description><![CDATA[
 Get support from the Telegram group or discuss the current project operations!
 ]]></description>
