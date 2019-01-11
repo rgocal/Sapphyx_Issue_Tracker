@@ -19,15 +19,15 @@ This is the message board of which loads OTA announcments! Click here for a rece
 </content:encoded>
   </item>
 
-<item>
-    <title>2019</title>
+ <item>
+    <title>INFO</title>
     <description><![CDATA[
-Happy New Year Everyone!
+Longclick a news item to copy the description text to your clipboard!
 ]]></description>
 <link></link>
     <content:encoded>
 <![CDATA[
-<p><img class="alignnone size-large wp-image-826374" src="https://images.unsplash.com/photo-1522274152592-9e54a8274e65?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=86ea071dd8ce8674c43be18c8f871e2f&auto=format&fit=crop&w=634&q=80">
+<p><img class="alignnone size-large wp-image-826374" src="https://images.unsplash.com/photo-1521687296887-5b06b3519a11?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=df38c12e6cbd222d0479a43c6f4c7ec0&auto=format&fit=crop&w=634&q=80">
 ]]>
 </content:encoded>
   </item>
@@ -35,7 +35,7 @@ Happy New Year Everyone!
  <item>
     <title>INFO</title>
     <description><![CDATA[
-Longclick a news item to copy the description text to your clipboard!
+Download the Sapphyx Launcher Service Pack to enable supportive backings to support Sapphyx development. 
 ]]></description>
 <link></link>
     <content:encoded>
